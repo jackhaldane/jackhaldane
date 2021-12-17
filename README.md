@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackhaldane
-- 🌱 1st year Computer Science degree student
+- 🌱 2nd year Computer Science degree student
 - 📫 Message me on LinkedIn if you'd like to get in touch - linkedin.com/in/jackhaldane/
 
 <!---
